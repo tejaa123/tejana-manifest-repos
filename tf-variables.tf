@@ -1,3 +1,4 @@
+#this is variable block
 variable "server_imageid" {
   type        = string
   description = "this variable stores image id of application server"
